@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a **Full Stack developer** who honed my technical and soft skills from my Mathematics and Computer
+
+Science studies and Full Stack Software Engineering Programme at ALX. I believe that continuous
+
+learning is essential in the technology industry, and I am always committed to staying up to date with
+
+the latest trends and developments. I'm also proud to have graduated in the top 5% of the ALX Tech
+
+program and been selected for the Gold Fellowship program at The ROOM.
+
